@@ -1,30 +1,26 @@
 
-A dark, slick, modern, responsive, adjective-drenched design built around an extremely
-dynamic landing page (scroll that mofo!). Inspired by Big Picture, another design
-of mine with a similarish feel/flow, only this time I took it waaaaaay further and
-actually made it multipurpose (versus copping out and making it a one pager like I
-did last time ;) Includes multiple pages, a bunch of pre-styled elements, and all
-its Sass sources.
+Um design escuro, elegante, moderno, responsivo e repleto de adjetivos, construído em torno de um design extremamente
+página de destino dinâmica (role esse mofo!). Inspirado no Big Picture, outro design
+meu com uma sensação / fluxo semelhante, só que desta vez eu fui muuuuito mais longe e
+na verdade, tornou-o multifuncional (em vez de fugir e torná-lo um pager como eu
+fiz da última vez;) Inclui várias páginas, vários elementos pré-estilizados e tudo
+suas fontes Sass.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+Imagens de demonstração* cortesia de Unsplash, uma coleção incrível de imagens CC0 (domínio público)
+você pode usar para praticamente qualquer coisa.
 
-(* = Not included)
+(* = Não incluído)
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
+Feedback, relatórios de bugs e comentários não são apenas bem-vindos, mas fortemente encorajados :)
 
+Créditos:
 
+Imagens de demonstração:
+Unsplash (unsplash. com)
 
+Ícones:
+Fonte incrível (fontawesome.io)
 
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Outro:
+jQuery (jquery.com)
+Scrollex
